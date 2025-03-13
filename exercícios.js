@@ -25,3 +25,5 @@ let f = false;
 console.log(i && f);
 console.log(i || f);
 console.log(!i);
+
+Teste Pull Request
